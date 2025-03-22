@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kostyash23/-greit-agency-test/static/css/main.75e8bfbb.css",
-    "main.js": "/kostyash23/-greit-agency-test/static/js/main.61e1fea1.js",
-    "static/js/453.0a36081d.chunk.js": "/kostyash23/-greit-agency-test/static/js/453.0a36081d.chunk.js",
-    "index.html": "/kostyash23/-greit-agency-test/index.html",
-    "main.75e8bfbb.css.map": "/kostyash23/-greit-agency-test/static/css/main.75e8bfbb.css.map",
-    "main.61e1fea1.js.map": "/kostyash23/-greit-agency-test/static/js/main.61e1fea1.js.map",
-    "453.0a36081d.chunk.js.map": "/kostyash23/-greit-agency-test/static/js/453.0a36081d.chunk.js.map"
+    "main.css": "/-greit-agency-test/static/css/main.75e8bfbb.css",
+    "main.js": "/-greit-agency-test/static/js/main.07fd9c03.js",
+    "static/js/453.0a36081d.chunk.js": "/-greit-agency-test/static/js/453.0a36081d.chunk.js",
+    "index.html": "/-greit-agency-test/index.html",
+    "main.75e8bfbb.css.map": "/-greit-agency-test/static/css/main.75e8bfbb.css.map",
+    "main.07fd9c03.js.map": "/-greit-agency-test/static/js/main.07fd9c03.js.map",
+    "453.0a36081d.chunk.js.map": "/-greit-agency-test/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75e8bfbb.css",
-    "static/js/main.61e1fea1.js"
+    "static/js/main.07fd9c03.js"
   ]
 }
