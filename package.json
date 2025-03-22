@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
-  "homepage": "https://github.com/kostyash23/-greit-agency-test",
+  "homepage": "https://kostyash23.github.io/-greit-agency-test",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
