@@ -1,6 +1,7 @@
 import { useState } from "react"
 import ImageSlider from "./imageSlider"
 import { BathIcon, BedIcon, HeartIcon, MapPinIcon, SquareIcon } from "./ui/Icons"
+import { formatPrice } from "../utils/formatPrice"
 
 
 export default function ProjectCard({ project }) {
@@ -12,14 +13,7 @@ export default function ProjectCard({ project }) {
       setIsFavorite(!isFavorite)
     }
   
-    const formatPrice = (price) => {
-      return new Intl.NumberFormat("en-US", {
-        style: "currency",
-        currency: "USD",
-        maximumFractionDigits: 0,
-      }).format(price)
-    }
-  
+
     return (
       <div className="bg-white rounded-3xl overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300">
         <div className="relative">

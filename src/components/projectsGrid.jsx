@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from "react";
-import LoadingSpinner from "./ui/loading-spinner";
-import ErrorMessage from "./ui/error-message";
+import LoadingSpinner from "./ui/LoadingSpinner";
+import ErrorMessage from "./ui/ErrorMessage";
 import ProjectCard from "./projectCard";
 import Pagination from "./pagination";
 
